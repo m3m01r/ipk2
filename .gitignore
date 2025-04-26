@@ -1,0 +1,10 @@
+/Project/obj
+/Project/bin
+/Project.Tests/obj
+/Project.Tests/bin
+ipk25chat-client
+*.pdb
+*.deb
+.*
+*.json
+!.gitignore
